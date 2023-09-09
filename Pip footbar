@@ -1,0 +1,7 @@
+echo "#footbar" >> README.md 
+git init 
+git add READMI.md 
+git comit -m "first comit"
+git bransch -m main 
+git remove add origin https://github.com/prihakaj3//footbar.git 
+git push -u origin main 
